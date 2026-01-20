@@ -1,5 +1,5 @@
 # 💫 About Me:
-A computer science and statistics engineer and CEO of ADSA.
+Computer Science, Statistics Engineer and CEO in ADSA.
 
 
 ## 🌐 Socials:
